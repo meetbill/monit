@@ -129,3 +129,8 @@ Contact information
 Monit is a product of Tildeslash Ltd. a company registered in Norway and in
 United Kingdom. For further information about this Software, please visit
 http://mmonit.com/monit/
+
+## 相关使用
+
+> * [monit_control](./scripts )
+> * [monit_manager](https://github.com/meetbill/monit_manager)
