@@ -7,7 +7,7 @@
 #########################################################################
 
 CUR_DIR=$(cd `dirname $0`; pwd)
-DISP_NAME="bdrp-monit"
+DISP_NAME="monit"
 MAIN_FILE="${CUR_DIR}/bin/monit -c ${CUR_DIR}/conf/monitrc"
 MAIN_FILE_current=${MAIN_FILE}
 STDOUT="./__stdout"

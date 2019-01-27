@@ -132,5 +132,6 @@ http://mmonit.com/monit/
 
 ## 相关使用
 
-> * [monit_control](./scripts )
-> * [monit_manager](https://github.com/meetbill/monit_manager)
+> * monit 控制脚本 [monit_control](https://github.com/meetbill/monit/tree/master/scripts)
+> * [源码学习](https://github.com/meetbill/monit/wiki)
+> * 解析 monit 库[monit_manager](https://github.com/meetbill/monit_manager)
